@@ -1,0 +1,19 @@
+{
+  "name": "deepobjs",
+  "version": "1.0.0",
+  "description": "DeepObjs\r ==========",
+  "main": "DeepObjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocharlie106/DeepObjs.git"
+  },
+  "author": "ocharlie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocharlie106/DeepObjs/issues"
+  },
+  "homepage": "https://github.com/ocharlie106/DeepObjs#readme"
+}
